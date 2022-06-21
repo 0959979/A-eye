@@ -30,6 +30,7 @@ Evaluation/data/sis_test_raw.csv
 report
 data/*
 static/test
+static/wav
 wandb
 cudnn-local-repo-ubuntu1804-8.4.0.27_1.0-1_amd64.deb
 !data/conceptual/test/.gitkeep 
